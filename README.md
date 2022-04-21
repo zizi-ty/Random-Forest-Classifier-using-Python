@@ -6,4 +6,7 @@ Resources used
 1. Train.csv
 2. Test.csv
 
+
+There is no hyperparameter tuning in this model, it does not have the best score :)
+
 Source https://zindi.africa/competitions/womens-hackathon/data
