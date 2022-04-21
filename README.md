@@ -9,4 +9,3 @@ Resources used
 
 There is no hyperparameter tuning in this model, it does not have the best score :)
 
-Source https://zindi.africa/competitions/womens-hackathon/data
